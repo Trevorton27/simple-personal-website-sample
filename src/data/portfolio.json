@@ -1,0 +1,32 @@
+[
+  {
+    "slug": "personal-website",
+    "title": "Personal Website",
+    "description": "The site you are looking at right now. Built with Next.js, Tailwind CSS, and Markdown files for blog posts. Deployed automatically to Vercel on every push to GitHub.",
+    "category": "Web App",
+    "techStack": ["Next.js", "Tailwind CSS", "React", "Markdown"],
+    "githubUrl": "https://github.com/your-username/simple-personal-website",
+    "demoUrl": "",
+    "featured": true
+  },
+  {
+    "slug": "weather-dashboard",
+    "title": "Weather Dashboard",
+    "description": "A simple weather app that fetches current conditions from a public API and displays them with a clean interface. My first project using fetch and async/await.",
+    "category": "Web App",
+    "techStack": ["HTML", "CSS", "JavaScript", "Fetch API"],
+    "githubUrl": "https://github.com/your-username/weather-dashboard",
+    "demoUrl": "",
+    "featured": true
+  },
+  {
+    "slug": "task-list",
+    "title": "Task List",
+    "description": "A to-do list app that saves items to localStorage so they persist between visits. Built with vanilla JavaScript as a way to practice DOM manipulation.",
+    "category": "Web App",
+    "techStack": ["HTML", "CSS", "JavaScript", "localStorage"],
+    "githubUrl": "https://github.com/your-username/task-list",
+    "demoUrl": "",
+    "featured": false
+  }
+]
